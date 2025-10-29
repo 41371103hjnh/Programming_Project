@@ -1,1 +1,4 @@
-# Programming_Project
+# 114-1 Programming_Project
+授課教師：蔡芸琤老師  
+系級：117級科技系二年級  
+組員姓名：何佳恩、蔡欣育、夏偉慈  
