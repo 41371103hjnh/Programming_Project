@@ -5,3 +5,4 @@
 # [專題提案報告](https://www.youtube.com/watch?v=wcNFh9eP8yw)
 **💘緣來如此—Fate happens**    
 AI月老戀愛配對與籤詩解籤系統
+https://docs.google.com/spreadsheets/d/106PoiJgG46Pc-wlPRBtCvibLpmrhF1kOCSND-QQRg6g/edit?gid=0#gid=0
