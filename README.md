@@ -38,8 +38,9 @@ https://docs.google.com/spreadsheets/d/106PoiJgG46Pc-wlPRBtCvibLpmrhF1kOCSND-QQR
 * **Python**（requests / pandas / BeautifulSoup）
 * **Gemini AI**（配對分析、籤詩現代化詮釋）
 * **Google Sheets**（籤詩與歷史紀錄）
+* **爬蟲資料**轉成csv檔做資料讀取  
 * **Gradio**（互動式介面）
-* API：Love Calculator API / Gemini API / Horostory API
+* **串接API**：Love Calculator API / Gemini API / Horostory API  
 ---
 ### ✨ 亮點特色
 * AI × 傳統文化的創新應用
@@ -50,5 +51,5 @@ https://docs.google.com/spreadsheets/d/106PoiJgG46Pc-wlPRBtCvibLpmrhF1kOCSND-QQR
 
 
 # [專題提案報告](https://www.youtube.com/watch?v=wcNFh9eP8yw)
-## [💘緣來如此—Fate happens(程式連結)](https://github.com/41371103hjnh/Programming_Project/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A%EF%BC%8D%E6%9C%80%E7%B5%82%E7%89%88.ipynb)  
+## [💘緣來如此—Fate happens(程式連結)](https://github.com/41371103hjnh/Programming_Project/blob/bfe43241b698100916bfb00d9e749d1bbc6f9233/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8Afinal.ipynb) 
   
