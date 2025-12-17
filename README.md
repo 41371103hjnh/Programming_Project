@@ -20,7 +20,7 @@
 
 ## 🔗 專題連結
 - 🎬 **YouTube 專題展示影片**  
-  https://www.youtube.com/watch?v=csbmBc2-Dp8
+
 
 - 💻 **GitHub 專題程式碼**  
 https://github.com/41371103hjnh/Programming_Project/tree/ma  
