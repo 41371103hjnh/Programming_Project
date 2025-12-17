@@ -4,7 +4,7 @@
 組員姓名：何佳恩、蔡欣育、夏偉慈  
 # 期末專題展示
 ## 專題名稱：緣來如此
-
+**AI 月老戀愛配對 × 籤詩解籤系統**
 ## 📌 專題定位
 **緣來如此** 結合了**AI 技術 × 傳統月老文化**，為單身大學生打造兼具娛樂與實用性的戀愛指引系統。 
 系統會根據雙方資料與當日星象生成個人化戀愛建議，並可以誠心求籤以線上解籤，得到白話文結果。
@@ -52,6 +52,4 @@ https://docs.google.com/spreadsheets/d/106PoiJgG46Pc-wlPRBtCvibLpmrhF1kOCSND-QQR
 
 # [專題提案報告](https://www.youtube.com/watch?v=wcNFh9eP8yw)
 ## [💘緣來如此—Fate happens(程式連結)](https://github.com/41371103hjnh/Programming_Project/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A%EF%BC%8D%E6%9C%80%E7%B5%82%E7%89%88.ipynb)  
-**AI 月老戀愛配對 × 籤詩解籤系統**  
-[資料儲存Sheet](https://docs.google.com/spreadsheets/d/106PoiJgG46Pc-wlPRBtCvibLpmrhF1kOCSND-QQRg6g/edit?gid=0#gid=0)  
-
+  
