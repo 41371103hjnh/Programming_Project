@@ -2,7 +2,7 @@
 授課教師：蔡芸琤老師  
 系級：117級科技系二年級  
 組員姓名：何佳恩、蔡欣育、夏偉慈  
-# 期末專題展示
+# [期末專題展示](https://www.youtube.com/watch?v=BYXhg2PgUnY)
 ## 專題名稱：緣來如此
 **AI 月老戀愛配對 × 籤詩解籤系統**
 ## 📌 專題定位
@@ -20,7 +20,7 @@
 
 ## 🔗 專題連結
 - 🎬 **YouTube 專題展示影片**  
-
+https://www.youtube.com/watch?v=BYXhg2PgUnY
 
 - 💻 **GitHub 專題程式碼**  
 https://github.com/41371103hjnh/Programming_Project  
