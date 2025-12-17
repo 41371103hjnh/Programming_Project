@@ -40,7 +40,7 @@ https://docs.google.com/spreadsheets/d/106PoiJgG46Pc-wlPRBtCvibLpmrhF1kOCSND-QQR
 * **Python**（requests / pandas / BeautifulSoup）
 * **Gemini AI**（配對分析、籤詩現代化詮釋）
 * **Google Sheets**（籤詩與歷史紀錄）
-* **爬蟲資料**轉成csv檔做資料讀取  
+* **爬蟲資料** (轉成csv檔做資料讀取)  
 * **Gradio**（互動式介面）
 * **串接API**：Love Calculator API / Gemini API / Horostory API  
 ---
