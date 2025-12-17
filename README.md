@@ -22,7 +22,7 @@
 - 🎬 **YouTube 專題展示影片**  
 https://www.youtube.com/watch?v=7SzLPi-Ka2U
 
-- 💻 **GitHub 專題程式碼**  
+- 💻 **GitHub 專題repo與程式碼**  
 https://github.com/41371103hjnh/Programming_Project  
 
 [完整版主程式](https://github.com/41371103hjnh/Programming_Project/blob/bfe43241b698100916bfb00d9e749d1bbc6f9233/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8Afinal.ipynb)  
